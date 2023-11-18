@@ -1,1 +1,1 @@
-# cakephp5-logs-interface-plugin
+# cakephp-logs-interface-plugin
